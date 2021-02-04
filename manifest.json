@@ -1,0 +1,75 @@
+{
+
+  "name": "Aplikasi Pro",
+
+  "short_name": "Aplikasi Pro",
+
+  "start_url": "https://pro-website-peminjaman.000webhostapp.com/",
+
+  "display": "standalone",
+
+  "background_color": "#fff",
+
+  "theme_color": "#243b99",
+
+  "description": "COBA",
+
+  "icons": [{
+
+    "src": "https://1.bp.blogspot.com/-1V9c_y14v-0/XcE08Ge-UII/AAAAAAAADlk/EEbXQ6NZlrornOReqrCrxhgVBXtJBTtzQCLcBGAsYHQ/s48/Java-Logo.png",
+
+    "sizes": "48x48",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://1.bp.blogspot.com/-1V9c_y14v-0/XcE08Ge-UII/AAAAAAAADlk/EEbXQ6NZlrornOReqrCrxhgVBXtJBTtzQCLcBGAsYHQ/s72/Java-Logo.png",
+
+    "sizes": "72x72",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://1.bp.blogspot.com/-1V9c_y14v-0/XcE08Ge-UII/AAAAAAAADlk/EEbXQ6NZlrornOReqrCrxhgVBXtJBTtzQCLcBGAsYHQ/s96/Java-Logo.png",
+
+    "sizes": "96x96",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://1.bp.blogspot.com/-1V9c_y14v-0/XcE08Ge-UII/AAAAAAAADlk/EEbXQ6NZlrornOReqrCrxhgVBXtJBTtzQCLcBGAsYHQ/s144/Java-Logo.png",
+
+    "sizes": "144x144",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://1.bp.blogspot.com/-1V9c_y14v-0/XcE08Ge-UII/AAAAAAAADlk/EEbXQ6NZlrornOReqrCrxhgVBXtJBTtzQCLcBGAsYHQ/s168/Java-Logo.png",
+
+    "sizes": "168x168",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://1.bp.blogspot.com/-1V9c_y14v-0/XcE08Ge-UII/AAAAAAAADlk/EEbXQ6NZlrornOReqrCrxhgVBXtJBTtzQCLcBGAsYHQ/s192/Java-Logo.png",
+
+    "sizes": "192x192",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://1.bp.blogspot.com/-1V9c_y14v-0/XcE08Ge-UII/AAAAAAAADlk/EEbXQ6NZlrornOReqrCrxhgVBXtJBTtzQCLcBGAsYHQ/s512/Java-Logo.png",
+
+    "sizes": "512x512",
+
+    "type": "image/png"
+
+  }]
+
+}
